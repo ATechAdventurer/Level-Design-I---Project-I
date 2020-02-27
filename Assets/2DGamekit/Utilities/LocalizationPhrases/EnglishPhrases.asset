@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97933d85c6acddc4bb95f77ca8cc0280, type: 3}
+  m_Name: EnglishPhrases
+  m_EditorClassIdentifier: 
+  language: English
+  phrases:
+  - key: INFOPOST1
+    value: '"If I plan on getting off this planet I need to find some fuel."'
+  - key: INFOPOST2
+    value: "\u201CWho puts a large boulder in the middle of a path? I guess I could
+      break it with K\u201D "
+  - key: INFOPOST3
+    value: '"I don''t know what that is but is seems like a pretty good target. Press
+      O to fire your raygun"'
+  - key: INFOPOST4
+    value: '"This place seems pretty KEY"'
+  - key: INFOPOST5
+    value: '"These trees are really trippy, not like the ones on earth"'
+  - key: INFOPOST6
+    value: '"On the bright-side, my fitbit won''t be complaining that I was sitting
+      all day"'
+  - key: INFOPOST7
+    value: '"Maybe attacking while I jump will give me a slight boost in lateral distance"'
+  - key: INFOPOST8
+    value: '"One more time"'
+  - key: INFOPOST9
+    value: '"I am 100% sure there is acid at the bottom of this pit, best be careful"'
+  - key: INFOPOST10
+    value: '"I feel like someone put this here just to piss me off"'
+  - key: INFOPOST11
+    value: '"This guy is chonky, I wonder how big these things can get"'
+  - key: INFOPOST12
+    value: '"Just don''t look down"'
+  - key: INFOPOST13
+    value: '"A door seriously? This is going to be a whole drawn out thing..... I
+      guess I just have to push on just like Cap always told me." (Press E to finish
+      the level)'
